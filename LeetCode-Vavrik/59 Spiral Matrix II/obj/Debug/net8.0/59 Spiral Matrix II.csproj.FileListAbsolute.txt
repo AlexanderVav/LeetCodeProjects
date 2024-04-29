@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/59 Spiral Matrix II/bin/Debug/net8.0/59 Spiral Matrix II
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/59 Spiral Matrix II/bin/Debug/net8.0/59 Spiral Matrix II.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/59 Spiral Matrix II/bin/Debug/net8.0/59 Spiral Matrix II.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/59 Spiral Matrix II/bin/Debug/net8.0/59 Spiral Matrix II.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/59 Spiral Matrix II/bin/Debug/net8.0/59 Spiral Matrix II.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/59 Spiral Matrix II/obj/Debug/net8.0/59 Spiral Matrix II.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/59 Spiral Matrix II/obj/Debug/net8.0/59 Spiral Matrix II.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/59 Spiral Matrix II/obj/Debug/net8.0/59 Spiral Matrix II.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/59 Spiral Matrix II/obj/Debug/net8.0/59 Spiral Matrix II.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/59 Spiral Matrix II/obj/Debug/net8.0/59 Spiral Matrix II.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/59 Spiral Matrix II/obj/Debug/net8.0/refint/59 Spiral Matrix II.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/59 Spiral Matrix II/obj/Debug/net8.0/59 Spiral Matrix II.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/59 Spiral Matrix II/obj/Debug/net8.0/59 Spiral Matrix II.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/59 Spiral Matrix II/obj/Debug/net8.0/ref/59 Spiral Matrix II.dll

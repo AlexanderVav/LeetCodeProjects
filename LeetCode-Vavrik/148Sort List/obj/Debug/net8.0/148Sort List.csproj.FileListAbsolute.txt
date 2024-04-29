@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/bin/Debug/net8.0/148Sort List
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/bin/Debug/net8.0/148Sort List.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/bin/Debug/net8.0/148Sort List.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/bin/Debug/net8.0/148Sort List.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/bin/Debug/net8.0/148Sort List.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/obj/Debug/net8.0/148Sort List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/obj/Debug/net8.0/148Sort List.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/obj/Debug/net8.0/148Sort List.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/obj/Debug/net8.0/148Sort List.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/obj/Debug/net8.0/148Sort List.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/obj/Debug/net8.0/refint/148Sort List.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/obj/Debug/net8.0/148Sort List.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/obj/Debug/net8.0/148Sort List.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/obj/Debug/net8.0/ref/148Sort List.dll

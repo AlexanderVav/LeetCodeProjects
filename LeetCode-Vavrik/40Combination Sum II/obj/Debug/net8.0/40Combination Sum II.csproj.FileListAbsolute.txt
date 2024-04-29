@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/bin/Debug/net8.0/40Combination Sum II
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/bin/Debug/net8.0/40Combination Sum II.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/bin/Debug/net8.0/40Combination Sum II.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/bin/Debug/net8.0/40Combination Sum II.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/bin/Debug/net8.0/40Combination Sum II.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/obj/Debug/net8.0/40Combination Sum II.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/obj/Debug/net8.0/40Combination Sum II.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/obj/Debug/net8.0/40Combination Sum II.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/obj/Debug/net8.0/40Combination Sum II.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/obj/Debug/net8.0/40Combination Sum II.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/obj/Debug/net8.0/refint/40Combination Sum II.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/obj/Debug/net8.0/40Combination Sum II.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/obj/Debug/net8.0/40Combination Sum II.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/obj/Debug/net8.0/ref/40Combination Sum II.dll

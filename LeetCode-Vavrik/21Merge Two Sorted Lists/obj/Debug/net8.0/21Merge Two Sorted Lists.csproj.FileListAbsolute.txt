@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/bin/Debug/net8.0/21Merge Two Sorted Lists
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/bin/Debug/net8.0/21Merge Two Sorted Lists.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/bin/Debug/net8.0/21Merge Two Sorted Lists.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/bin/Debug/net8.0/21Merge Two Sorted Lists.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/bin/Debug/net8.0/21Merge Two Sorted Lists.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/obj/Debug/net8.0/21Merge Two Sorted Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/obj/Debug/net8.0/21Merge Two Sorted Lists.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/obj/Debug/net8.0/21Merge Two Sorted Lists.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/obj/Debug/net8.0/21Merge Two Sorted Lists.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/obj/Debug/net8.0/21Merge Two Sorted Lists.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/obj/Debug/net8.0/refint/21Merge Two Sorted Lists.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/obj/Debug/net8.0/21Merge Two Sorted Lists.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/obj/Debug/net8.0/21Merge Two Sorted Lists.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/obj/Debug/net8.0/ref/21Merge Two Sorted Lists.dll

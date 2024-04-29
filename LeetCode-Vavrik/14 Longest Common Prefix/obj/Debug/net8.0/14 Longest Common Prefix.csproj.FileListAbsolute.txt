@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/14 Longest Common Prefix/bin/Debug/net8.0/14 Longest Common Prefix
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/14 Longest Common Prefix/bin/Debug/net8.0/14 Longest Common Prefix.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/14 Longest Common Prefix/bin/Debug/net8.0/14 Longest Common Prefix.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/14 Longest Common Prefix/bin/Debug/net8.0/14 Longest Common Prefix.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/14 Longest Common Prefix/bin/Debug/net8.0/14 Longest Common Prefix.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/14 Longest Common Prefix/obj/Debug/net8.0/14 Longest Common Prefix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/14 Longest Common Prefix/obj/Debug/net8.0/14 Longest Common Prefix.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/14 Longest Common Prefix/obj/Debug/net8.0/14 Longest Common Prefix.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/14 Longest Common Prefix/obj/Debug/net8.0/14 Longest Common Prefix.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/14 Longest Common Prefix/obj/Debug/net8.0/14 Longest Common Prefix.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/14 Longest Common Prefix/obj/Debug/net8.0/refint/14 Longest Common Prefix.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/14 Longest Common Prefix/obj/Debug/net8.0/14 Longest Common Prefix.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/14 Longest Common Prefix/obj/Debug/net8.0/14 Longest Common Prefix.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/14 Longest Common Prefix/obj/Debug/net8.0/ref/14 Longest Common Prefix.dll

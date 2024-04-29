@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/bin/Debug/net8.0/62Unique Paths
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/bin/Debug/net8.0/62Unique Paths.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/bin/Debug/net8.0/62Unique Paths.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/bin/Debug/net8.0/62Unique Paths.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/bin/Debug/net8.0/62Unique Paths.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/obj/Debug/net8.0/62Unique Paths.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/obj/Debug/net8.0/62Unique Paths.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/obj/Debug/net8.0/62Unique Paths.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/obj/Debug/net8.0/62Unique Paths.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/obj/Debug/net8.0/62Unique Paths.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/obj/Debug/net8.0/refint/62Unique Paths.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/obj/Debug/net8.0/62Unique Paths.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/obj/Debug/net8.0/62Unique Paths.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/obj/Debug/net8.0/ref/62Unique Paths.dll

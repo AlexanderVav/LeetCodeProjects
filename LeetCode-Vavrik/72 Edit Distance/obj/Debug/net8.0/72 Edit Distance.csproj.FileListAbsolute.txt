@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/bin/Debug/net8.0/72 Edit Distance
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/bin/Debug/net8.0/72 Edit Distance.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/bin/Debug/net8.0/72 Edit Distance.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/bin/Debug/net8.0/72 Edit Distance.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/bin/Debug/net8.0/72 Edit Distance.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/obj/Debug/net8.0/72 Edit Distance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/obj/Debug/net8.0/72 Edit Distance.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/obj/Debug/net8.0/72 Edit Distance.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/obj/Debug/net8.0/72 Edit Distance.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/obj/Debug/net8.0/72 Edit Distance.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/obj/Debug/net8.0/refint/72 Edit Distance.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/obj/Debug/net8.0/72 Edit Distance.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/obj/Debug/net8.0/72 Edit Distance.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/obj/Debug/net8.0/ref/72 Edit Distance.dll

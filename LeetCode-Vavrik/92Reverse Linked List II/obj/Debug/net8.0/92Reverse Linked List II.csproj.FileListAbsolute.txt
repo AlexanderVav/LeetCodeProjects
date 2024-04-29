@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/92Reverse Linked List II/bin/Debug/net8.0/92Reverse Linked List II
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/92Reverse Linked List II/bin/Debug/net8.0/92Reverse Linked List II.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/92Reverse Linked List II/bin/Debug/net8.0/92Reverse Linked List II.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/92Reverse Linked List II/bin/Debug/net8.0/92Reverse Linked List II.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/92Reverse Linked List II/bin/Debug/net8.0/92Reverse Linked List II.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/92Reverse Linked List II/obj/Debug/net8.0/92Reverse Linked List II.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/92Reverse Linked List II/obj/Debug/net8.0/92Reverse Linked List II.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/92Reverse Linked List II/obj/Debug/net8.0/92Reverse Linked List II.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/92Reverse Linked List II/obj/Debug/net8.0/92Reverse Linked List II.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/92Reverse Linked List II/obj/Debug/net8.0/92Reverse Linked List II.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/92Reverse Linked List II/obj/Debug/net8.0/refint/92Reverse Linked List II.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/92Reverse Linked List II/obj/Debug/net8.0/92Reverse Linked List II.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/92Reverse Linked List II/obj/Debug/net8.0/92Reverse Linked List II.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/92Reverse Linked List II/obj/Debug/net8.0/ref/92Reverse Linked List II.dll

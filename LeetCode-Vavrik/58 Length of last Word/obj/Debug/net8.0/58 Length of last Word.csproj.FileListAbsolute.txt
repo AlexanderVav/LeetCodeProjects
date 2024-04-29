@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/58 Length of last Word/bin/Debug/net8.0/58 Length of last Word
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/58 Length of last Word/bin/Debug/net8.0/58 Length of last Word.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/58 Length of last Word/bin/Debug/net8.0/58 Length of last Word.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/58 Length of last Word/bin/Debug/net8.0/58 Length of last Word.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/58 Length of last Word/bin/Debug/net8.0/58 Length of last Word.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/58 Length of last Word/obj/Debug/net8.0/58 Length of last Word.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/58 Length of last Word/obj/Debug/net8.0/58 Length of last Word.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/58 Length of last Word/obj/Debug/net8.0/58 Length of last Word.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/58 Length of last Word/obj/Debug/net8.0/58 Length of last Word.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/58 Length of last Word/obj/Debug/net8.0/58 Length of last Word.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/58 Length of last Word/obj/Debug/net8.0/refint/58 Length of last Word.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/58 Length of last Word/obj/Debug/net8.0/58 Length of last Word.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/58 Length of last Word/obj/Debug/net8.0/58 Length of last Word.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/58 Length of last Word/obj/Debug/net8.0/ref/58 Length of last Word.dll

@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/95Unique Binary Search Trees II/bin/Debug/net8.0/95Unique Binary Search Trees II
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/95Unique Binary Search Trees II/bin/Debug/net8.0/95Unique Binary Search Trees II.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/95Unique Binary Search Trees II/bin/Debug/net8.0/95Unique Binary Search Trees II.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/95Unique Binary Search Trees II/bin/Debug/net8.0/95Unique Binary Search Trees II.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/95Unique Binary Search Trees II/bin/Debug/net8.0/95Unique Binary Search Trees II.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/95Unique Binary Search Trees II/obj/Debug/net8.0/95Unique Binary Search Trees II.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/95Unique Binary Search Trees II/obj/Debug/net8.0/95Unique Binary Search Trees II.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/95Unique Binary Search Trees II/obj/Debug/net8.0/95Unique Binary Search Trees II.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/95Unique Binary Search Trees II/obj/Debug/net8.0/95Unique Binary Search Trees II.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/95Unique Binary Search Trees II/obj/Debug/net8.0/95Unique Binary Search Trees II.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/95Unique Binary Search Trees II/obj/Debug/net8.0/refint/95Unique Binary Search Trees II.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/95Unique Binary Search Trees II/obj/Debug/net8.0/95Unique Binary Search Trees II.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/95Unique Binary Search Trees II/obj/Debug/net8.0/95Unique Binary Search Trees II.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/95Unique Binary Search Trees II/obj/Debug/net8.0/ref/95Unique Binary Search Trees II.dll

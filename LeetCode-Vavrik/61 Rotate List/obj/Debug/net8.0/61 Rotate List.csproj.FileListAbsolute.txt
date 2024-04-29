@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/61 Rotate List/bin/Debug/net8.0/61 Rotate List
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/61 Rotate List/bin/Debug/net8.0/61 Rotate List.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/61 Rotate List/bin/Debug/net8.0/61 Rotate List.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/61 Rotate List/bin/Debug/net8.0/61 Rotate List.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/61 Rotate List/bin/Debug/net8.0/61 Rotate List.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/61 Rotate List/obj/Debug/net8.0/61 Rotate List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/61 Rotate List/obj/Debug/net8.0/61 Rotate List.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/61 Rotate List/obj/Debug/net8.0/61 Rotate List.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/61 Rotate List/obj/Debug/net8.0/61 Rotate List.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/61 Rotate List/obj/Debug/net8.0/61 Rotate List.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/61 Rotate List/obj/Debug/net8.0/refint/61 Rotate List.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/61 Rotate List/obj/Debug/net8.0/61 Rotate List.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/61 Rotate List/obj/Debug/net8.0/61 Rotate List.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/61 Rotate List/obj/Debug/net8.0/ref/61 Rotate List.dll

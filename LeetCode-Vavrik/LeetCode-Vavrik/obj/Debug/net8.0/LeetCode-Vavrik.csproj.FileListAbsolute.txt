@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/LeetCode-Vavrik/bin/Debug/net8.0/LeetCode-Vavrik
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/LeetCode-Vavrik/bin/Debug/net8.0/LeetCode-Vavrik.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/LeetCode-Vavrik/bin/Debug/net8.0/LeetCode-Vavrik.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/LeetCode-Vavrik/bin/Debug/net8.0/LeetCode-Vavrik.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/LeetCode-Vavrik/bin/Debug/net8.0/LeetCode-Vavrik.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/LeetCode-Vavrik/obj/Debug/net8.0/LeetCode-Vavrik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/LeetCode-Vavrik/obj/Debug/net8.0/LeetCode-Vavrik.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/LeetCode-Vavrik/obj/Debug/net8.0/LeetCode-Vavrik.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/LeetCode-Vavrik/obj/Debug/net8.0/LeetCode-Vavrik.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/LeetCode-Vavrik/obj/Debug/net8.0/LeetCode-Vavrik.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/LeetCode-Vavrik/obj/Debug/net8.0/refint/LeetCode-Vavrik.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/LeetCode-Vavrik/obj/Debug/net8.0/LeetCode-Vavrik.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/LeetCode-Vavrik/obj/Debug/net8.0/LeetCode-Vavrik.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/LeetCode-Vavrik/obj/Debug/net8.0/ref/LeetCode-Vavrik.dll

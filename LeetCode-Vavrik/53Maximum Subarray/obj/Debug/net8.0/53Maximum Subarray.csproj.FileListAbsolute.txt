@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/bin/Debug/net8.0/53Maximum Subarray
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/bin/Debug/net8.0/53Maximum Subarray.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/bin/Debug/net8.0/53Maximum Subarray.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/bin/Debug/net8.0/53Maximum Subarray.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/bin/Debug/net8.0/53Maximum Subarray.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/obj/Debug/net8.0/53Maximum Subarray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/obj/Debug/net8.0/53Maximum Subarray.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/obj/Debug/net8.0/53Maximum Subarray.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/obj/Debug/net8.0/53Maximum Subarray.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/obj/Debug/net8.0/53Maximum Subarray.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/obj/Debug/net8.0/refint/53Maximum Subarray.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/obj/Debug/net8.0/53Maximum Subarray.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/obj/Debug/net8.0/53Maximum Subarray.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/obj/Debug/net8.0/ref/53Maximum Subarray.dll

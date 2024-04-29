@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/bin/Debug/net8.0/22 Generate Parentheses
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/bin/Debug/net8.0/22 Generate Parentheses.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/bin/Debug/net8.0/22 Generate Parentheses.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/bin/Debug/net8.0/22 Generate Parentheses.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/bin/Debug/net8.0/22 Generate Parentheses.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/obj/Debug/net8.0/22 Generate Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/obj/Debug/net8.0/22 Generate Parentheses.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/obj/Debug/net8.0/22 Generate Parentheses.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/obj/Debug/net8.0/22 Generate Parentheses.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/obj/Debug/net8.0/22 Generate Parentheses.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/obj/Debug/net8.0/refint/22 Generate Parentheses.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/obj/Debug/net8.0/22 Generate Parentheses.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/obj/Debug/net8.0/22 Generate Parentheses.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/obj/Debug/net8.0/ref/22 Generate Parentheses.dll

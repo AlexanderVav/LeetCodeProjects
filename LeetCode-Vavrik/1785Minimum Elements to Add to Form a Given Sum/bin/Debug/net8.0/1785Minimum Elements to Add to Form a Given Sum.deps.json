@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "1785Minimum Elements to Add to Form a Given Sum/1.0.0": {
+        "runtime": {
+          "1785Minimum Elements to Add to Form a Given Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1785Minimum Elements to Add to Form a Given Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

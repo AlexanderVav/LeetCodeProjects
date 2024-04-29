@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1091Shortest Path in Binary Matrix/bin/Debug/net8.0/1091Shortest Path in Binary Matrix
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1091Shortest Path in Binary Matrix/bin/Debug/net8.0/1091Shortest Path in Binary Matrix.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1091Shortest Path in Binary Matrix/bin/Debug/net8.0/1091Shortest Path in Binary Matrix.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1091Shortest Path in Binary Matrix/bin/Debug/net8.0/1091Shortest Path in Binary Matrix.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1091Shortest Path in Binary Matrix/bin/Debug/net8.0/1091Shortest Path in Binary Matrix.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1091Shortest Path in Binary Matrix/obj/Debug/net8.0/1091Shortest Path in Binary Matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1091Shortest Path in Binary Matrix/obj/Debug/net8.0/1091Shortest Path in Binary Matrix.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1091Shortest Path in Binary Matrix/obj/Debug/net8.0/1091Shortest Path in Binary Matrix.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1091Shortest Path in Binary Matrix/obj/Debug/net8.0/1091Shortest Path in Binary Matrix.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1091Shortest Path in Binary Matrix/obj/Debug/net8.0/1091Shortest Path in Binary Matrix.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1091Shortest Path in Binary Matrix/obj/Debug/net8.0/refint/1091Shortest Path in Binary Matrix.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1091Shortest Path in Binary Matrix/obj/Debug/net8.0/1091Shortest Path in Binary Matrix.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1091Shortest Path in Binary Matrix/obj/Debug/net8.0/1091Shortest Path in Binary Matrix.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1091Shortest Path in Binary Matrix/obj/Debug/net8.0/ref/1091Shortest Path in Binary Matrix.dll

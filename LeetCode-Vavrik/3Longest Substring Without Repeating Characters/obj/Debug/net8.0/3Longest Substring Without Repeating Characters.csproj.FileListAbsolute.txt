@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/3Longest Substring Without Repeating Characters/bin/Debug/net8.0/3Longest Substring Without Repeating Characters
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/3Longest Substring Without Repeating Characters/bin/Debug/net8.0/3Longest Substring Without Repeating Characters.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/3Longest Substring Without Repeating Characters/bin/Debug/net8.0/3Longest Substring Without Repeating Characters.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/3Longest Substring Without Repeating Characters/bin/Debug/net8.0/3Longest Substring Without Repeating Characters.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/3Longest Substring Without Repeating Characters/bin/Debug/net8.0/3Longest Substring Without Repeating Characters.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/3Longest Substring Without Repeating Characters/obj/Debug/net8.0/3Longest Substring Without Repeating Characters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/3Longest Substring Without Repeating Characters/obj/Debug/net8.0/3Longest Substring Without Repeating Characters.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/3Longest Substring Without Repeating Characters/obj/Debug/net8.0/3Longest Substring Without Repeating Characters.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/3Longest Substring Without Repeating Characters/obj/Debug/net8.0/3Longest Substring Without Repeating Characters.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/3Longest Substring Without Repeating Characters/obj/Debug/net8.0/3Longest Substring Without Repeating Characters.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/3Longest Substring Without Repeating Characters/obj/Debug/net8.0/refint/3Longest Substring Without Repeating Characters.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/3Longest Substring Without Repeating Characters/obj/Debug/net8.0/3Longest Substring Without Repeating Characters.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/3Longest Substring Without Repeating Characters/obj/Debug/net8.0/3Longest Substring Without Repeating Characters.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/3Longest Substring Without Repeating Characters/obj/Debug/net8.0/ref/3Longest Substring Without Repeating Characters.dll

@@ -1,0 +1,14 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/bin/Debug/net8.0/1662Check If Two String Arrays are Equivalent
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/bin/Debug/net8.0/1662Check If Two String Arrays are Equivalent.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/bin/Debug/net8.0/1662Check If Two String Arrays are Equivalent.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/bin/Debug/net8.0/1662Check If Two String Arrays are Equivalent.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/bin/Debug/net8.0/1662Check If Two String Arrays are Equivalent.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/obj/Debug/net8.0/1662Check If Two String Arrays are Equivalent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/obj/Debug/net8.0/1662Check If Two String Arrays are Equivalent.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/obj/Debug/net8.0/1662Check If Two String Arrays are Equivalent.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/obj/Debug/net8.0/1662Check If Two String Arrays are Equivalent.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/obj/Debug/net8.0/1662Check If Two String Arrays are Equivalent.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/obj/Debug/net8.0/refint/1662Check If Two String Arrays are Equivalent.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/obj/Debug/net8.0/1662Check If Two String Arrays are Equivalent.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/obj/Debug/net8.0/1662Check If Two String Arrays are Equivalent.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/obj/Debug/net8.0/ref/1662Check If Two String Arrays are Equivalent.dll
