@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MZAgyzr0eC9fowNEQ9kD2Hm8k/WfLS3dbSoNg5ul1LJ6p3CDpp5qdIJenNc02+rT6u9gaVeIuxDnjKNtTuIgFg==",
+  "dgSpecHash": "47O8w0L0/MLNmyZKb5vBb5fEZntaOIkjFTvk5ybSu38whmG+rVXaecbzsrB34nIJoiXLXRgzBNkHtKbbFXD0qA==",
   "success": true,
-  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/22 Generate Parentheses.csproj",
+  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/22 Generate Parentheses/22 Generate Parentheses.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

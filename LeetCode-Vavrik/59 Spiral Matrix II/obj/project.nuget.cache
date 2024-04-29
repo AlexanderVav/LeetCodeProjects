@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wq5H3ayREH4bbK3e6yvC9oTP5kVHX7AiCARGvt4tTfDKuOQLnfzLxnMKygKWd93wfBDhoqAVkr1amLzPz5lJqQ==",
+  "dgSpecHash": "30b1Bl3GKUG9Z1OjFNWjrOdHz1FED1GZ6yTyqJ6Vv7fpkDk5PQVj9kYeVQl6kyaU5UilCLOBK5PjZlbu3P5dNA==",
   "success": true,
-  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/59 Spiral Matrix II/59 Spiral Matrix II.csproj",
+  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/59 Spiral Matrix II/59 Spiral Matrix II.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

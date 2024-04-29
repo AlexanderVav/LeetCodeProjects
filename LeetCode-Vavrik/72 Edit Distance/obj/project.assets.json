@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/72 Edit Distance.csproj",
+      "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/72 Edit Distance/72 Edit Distance.csproj",
       "projectName": "72 Edit Distance",
-      "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/72 Edit Distance.csproj",
+      "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/72 Edit Distance/72 Edit Distance.csproj",
       "packagesPath": "/Users/alexander/.nuget/packages/",
-      "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/72 Edit Distance/obj/",
+      "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/72 Edit Distance/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alexander/.nuget/NuGet/NuGet.Config"

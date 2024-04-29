@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/62Unique Paths.csproj",
+      "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/62Unique Paths/62Unique Paths.csproj",
       "projectName": "62Unique Paths",
-      "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/62Unique Paths.csproj",
+      "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/62Unique Paths/62Unique Paths.csproj",
       "packagesPath": "/Users/alexander/.nuget/packages/",
-      "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/62Unique Paths/obj/",
+      "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/62Unique Paths/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alexander/.nuget/NuGet/NuGet.Config"

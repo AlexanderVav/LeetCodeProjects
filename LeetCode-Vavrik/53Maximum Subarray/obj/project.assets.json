@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/53Maximum Subarray.csproj",
+      "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/53Maximum Subarray/53Maximum Subarray.csproj",
       "projectName": "53Maximum Subarray",
-      "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/53Maximum Subarray.csproj",
+      "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/53Maximum Subarray/53Maximum Subarray.csproj",
       "packagesPath": "/Users/alexander/.nuget/packages/",
-      "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/53Maximum Subarray/obj/",
+      "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/53Maximum Subarray/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alexander/.nuget/NuGet/NuGet.Config"

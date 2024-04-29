@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/20 Valid Parentheses/20 Valid Parentheses.csproj",
+      "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/20 Valid Parentheses/20 Valid Parentheses.csproj",
       "projectName": "20 Valid Parentheses",
-      "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/20 Valid Parentheses/20 Valid Parentheses.csproj",
+      "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/20 Valid Parentheses/20 Valid Parentheses.csproj",
       "packagesPath": "/Users/alexander/.nuget/packages/",
-      "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/20 Valid Parentheses/obj/",
+      "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/20 Valid Parentheses/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alexander/.nuget/NuGet/NuGet.Config"

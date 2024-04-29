@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cm20YfleAQqBR3EBuSXztysyb8CcNza+v4ebiJ2U3BC8jv+vKo2mYmRn66cU2OnvxT12dex7xntNAqzBkhpkuA==",
+  "dgSpecHash": "4rjH7LduaLHQ85C0FPKXZQwSOYgTAJWlSuFBKuRLS0wf5nwbOkP7cnVkj75AlP8kv71oQILGtJzAxXquNZniNA==",
   "success": true,
-  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/61 Rotate List/61 Rotate List.csproj",
+  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/61 Rotate List/61 Rotate List.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

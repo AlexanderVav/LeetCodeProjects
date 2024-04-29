@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9frBLsDJ5DIP+AALCbnGZK6yL2HO+QCi6yRzk+D+27RYTkIWZvHjgkn4Qo/1JOG0s0XcrHD+N7mUHZfc9Lm5og==",
+  "dgSpecHash": "6NYPZM5h5X5etRUjUOW3uUiKxIUEBMw7HUmWcykI4RGV16gSW3MyNN8N1YFt0Dn8W1I02nbzXzebgpSTNOREhw==",
   "success": true,
-  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/55Jump Game/55Jump Game.csproj",
+  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/55Jump Game/55Jump Game.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

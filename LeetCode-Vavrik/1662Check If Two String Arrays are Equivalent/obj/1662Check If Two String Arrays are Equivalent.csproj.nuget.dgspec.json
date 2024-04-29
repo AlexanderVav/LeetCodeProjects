@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/1662Check If Two String Arrays are Equivalent.csproj": {}
+    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/1662Check If Two String Arrays are Equivalent.csproj": {}
   },
   "projects": {
-    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/1662Check If Two String Arrays are Equivalent.csproj": {
+    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/1662Check If Two String Arrays are Equivalent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/1662Check If Two String Arrays are Equivalent.csproj",
+        "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/1662Check If Two String Arrays are Equivalent.csproj",
         "projectName": "1662Check If Two String Arrays are Equivalent",
-        "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/1662Check If Two String Arrays are Equivalent.csproj",
+        "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/1662Check If Two String Arrays are Equivalent.csproj",
         "packagesPath": "/Users/alexander/.nuget/packages/",
-        "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/obj/",
+        "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alexander/.nuget/NuGet/NuGet.Config"

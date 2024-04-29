@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _92Reverse_Linked_List_II
-build_property.ProjectDir = /Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/92Reverse Linked List II/
+build_property.ProjectDir = /Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/92Reverse Linked List II/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

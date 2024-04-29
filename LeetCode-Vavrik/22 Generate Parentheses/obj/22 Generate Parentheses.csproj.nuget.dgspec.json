@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/22 Generate Parentheses.csproj": {}
+    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/22 Generate Parentheses/22 Generate Parentheses.csproj": {}
   },
   "projects": {
-    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/22 Generate Parentheses.csproj": {
+    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/22 Generate Parentheses/22 Generate Parentheses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/22 Generate Parentheses.csproj",
+        "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/22 Generate Parentheses/22 Generate Parentheses.csproj",
         "projectName": "22 Generate Parentheses",
-        "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/22 Generate Parentheses.csproj",
+        "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/22 Generate Parentheses/22 Generate Parentheses.csproj",
         "packagesPath": "/Users/alexander/.nuget/packages/",
-        "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/22 Generate Parentheses/obj/",
+        "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/22 Generate Parentheses/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alexander/.nuget/NuGet/NuGet.Config"

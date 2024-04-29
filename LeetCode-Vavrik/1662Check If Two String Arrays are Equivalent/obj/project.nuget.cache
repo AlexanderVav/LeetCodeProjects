@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V3+LBSoCFDykRZ0c+O2Yy4NqxRQeJV0xqQXNnYt8/sKZBLwP0MwqKJr9ZVBo01FrlKMdcXoP7xbY4oMzW010VA==",
+  "dgSpecHash": "i2xdtqyQ0lMQ32yNG+ZshStr0EKIxUiGbx/aQg7Xn22f6jyE9iw6dM3EJBABb1Sg9/GrENEqBERf9Zv5gODuxQ==",
   "success": true,
-  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/1662Check If Two String Arrays are Equivalent.csproj",
+  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1662Check If Two String Arrays are Equivalent/1662Check If Two String Arrays are Equivalent.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

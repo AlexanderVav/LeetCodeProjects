@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/148Sort List.csproj",
+      "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/148Sort List/148Sort List.csproj",
       "projectName": "148Sort List",
-      "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/148Sort List.csproj",
+      "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/148Sort List/148Sort List.csproj",
       "packagesPath": "/Users/alexander/.nuget/packages/",
-      "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/obj/",
+      "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/148Sort List/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alexander/.nuget/NuGet/NuGet.Config"

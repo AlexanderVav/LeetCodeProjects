@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q8h6BPC7NNk6+QkqogS6+fiynUKdDSCFTfWbTnpnzuH4q3JH0QJbMgc4Mskpy9WZMzC5E7ph6+7edzp2hmo5yQ==",
+  "dgSpecHash": "AhS6FN0EhcWS12OiLTUaoC/EhKEMT9eeF7bb6PJO0Z5OSDn++DOgwY6igZYssU2lQLWeeV96Td5uyzR+sbcrpA==",
   "success": true,
-  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1785Minimum Elements to Add to Form a Given Sum/1785Minimum Elements to Add to Form a Given Sum.csproj",
+  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1785Minimum Elements to Add to Form a Given Sum/1785Minimum Elements to Add to Form a Given Sum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

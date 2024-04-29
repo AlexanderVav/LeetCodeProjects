@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1785Minimum Elements to Add to Form a Given Sum/1785Minimum Elements to Add to Form a Given Sum.csproj": {}
+    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1785Minimum Elements to Add to Form a Given Sum/1785Minimum Elements to Add to Form a Given Sum.csproj": {}
   },
   "projects": {
-    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1785Minimum Elements to Add to Form a Given Sum/1785Minimum Elements to Add to Form a Given Sum.csproj": {
+    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1785Minimum Elements to Add to Form a Given Sum/1785Minimum Elements to Add to Form a Given Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1785Minimum Elements to Add to Form a Given Sum/1785Minimum Elements to Add to Form a Given Sum.csproj",
+        "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1785Minimum Elements to Add to Form a Given Sum/1785Minimum Elements to Add to Form a Given Sum.csproj",
         "projectName": "1785Minimum Elements to Add to Form a Given Sum",
-        "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1785Minimum Elements to Add to Form a Given Sum/1785Minimum Elements to Add to Form a Given Sum.csproj",
+        "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1785Minimum Elements to Add to Form a Given Sum/1785Minimum Elements to Add to Form a Given Sum.csproj",
         "packagesPath": "/Users/alexander/.nuget/packages/",
-        "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1785Minimum Elements to Add to Form a Given Sum/obj/",
+        "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1785Minimum Elements to Add to Form a Given Sum/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alexander/.nuget/NuGet/NuGet.Config"

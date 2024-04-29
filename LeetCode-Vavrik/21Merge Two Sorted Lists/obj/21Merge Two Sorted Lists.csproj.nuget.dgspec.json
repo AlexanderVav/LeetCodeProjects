@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/21Merge Two Sorted Lists.csproj": {}
+    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/21Merge Two Sorted Lists/21Merge Two Sorted Lists.csproj": {}
   },
   "projects": {
-    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/21Merge Two Sorted Lists.csproj": {
+    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/21Merge Two Sorted Lists/21Merge Two Sorted Lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/21Merge Two Sorted Lists.csproj",
+        "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/21Merge Two Sorted Lists/21Merge Two Sorted Lists.csproj",
         "projectName": "21Merge Two Sorted Lists",
-        "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/21Merge Two Sorted Lists.csproj",
+        "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/21Merge Two Sorted Lists/21Merge Two Sorted Lists.csproj",
         "packagesPath": "/Users/alexander/.nuget/packages/",
-        "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/obj/",
+        "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/21Merge Two Sorted Lists/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alexander/.nuget/NuGet/NuGet.Config"

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _1806Minimum_Number_of_Operations_to_Reinitialize_a_Permutation
-build_property.ProjectDir = /Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1806Minimum Number of Operations to Reinitialize a Permutation/
+build_property.ProjectDir = /Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1806Minimum Number of Operations to Reinitialize a Permutation/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

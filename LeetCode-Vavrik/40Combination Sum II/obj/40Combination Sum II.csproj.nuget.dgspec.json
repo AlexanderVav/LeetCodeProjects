@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/40Combination Sum II.csproj": {}
+    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/40Combination Sum II/40Combination Sum II.csproj": {}
   },
   "projects": {
-    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/40Combination Sum II.csproj": {
+    "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/40Combination Sum II/40Combination Sum II.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/40Combination Sum II.csproj",
+        "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/40Combination Sum II/40Combination Sum II.csproj",
         "projectName": "40Combination Sum II",
-        "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/40Combination Sum II.csproj",
+        "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/40Combination Sum II/40Combination Sum II.csproj",
         "packagesPath": "/Users/alexander/.nuget/packages/",
-        "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/40Combination Sum II/obj/",
+        "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/40Combination Sum II/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alexander/.nuget/NuGet/NuGet.Config"

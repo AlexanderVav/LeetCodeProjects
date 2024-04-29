@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XWsb2DGWAJNHhctDH3GnmFES+cCzf9vwTR7GC1/Fsn6VRMwTZnQyIQeDnuhUuQBthpj1g7C61V7MvHtYRDs+gA==",
+  "dgSpecHash": "hXl5SOIVZHNzEBaeLQOD6r1E93XuEJfhKVTpYG1biCbnxVccd7pWJIsc4jIns8/ewiTXc+c8TY9lva2plo8Kbg==",
   "success": true,
-  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/21Merge Two Sorted Lists.csproj",
+  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/21Merge Two Sorted Lists/21Merge Two Sorted Lists.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

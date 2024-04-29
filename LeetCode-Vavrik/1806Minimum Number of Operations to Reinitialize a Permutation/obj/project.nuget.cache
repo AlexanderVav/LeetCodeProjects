@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wBiT8s9j/hTrhsVQT3cZSYLT6gF9Mk0gGOmn1qyYQALTID49zmUcOb4TUCeJLRvpwYo0wLgSSEzD6Dz5VjMPGg==",
+  "dgSpecHash": "XA4ohDhbWIa2gBwo8/Fz3CUomRk2cFFHnDh+mqjZmfA0nd/EQTQBn8WNUH8Q7up0g44tIDtDHlptxZqPWp2rTg==",
   "success": true,
-  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1806Minimum Number of Operations to Reinitialize a Permutation/1806Minimum Number of Operations to Reinitialize a Permutation.csproj",
+  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1806Minimum Number of Operations to Reinitialize a Permutation/1806Minimum Number of Operations to Reinitialize a Permutation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

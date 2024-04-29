@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rB8x7c6eCmmSwunuCA4bNW8u7d29afFSaFIGVdpXJVrlqoKgvT48w+mui5yh2det0ViSpAKDHpMFhx3FwC2LhQ==",
+  "dgSpecHash": "jNVZdUCSk9HxylJ2IFNH8xAfLdvTGxqnGG9NFj/5Govv7cLgdZisT4VYtZyQ6ErHpXt6RVwHyRKa5gHVSntTvA==",
   "success": true,
-  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/148Sort List/148Sort List.csproj",
+  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/148Sort List/148Sort List.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

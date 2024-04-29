@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1806Minimum Number of Operations to Reinitialize a Permutation/1806Minimum Number of Operations to Reinitialize a Permutation.csproj",
+      "projectUniqueName": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1806Minimum Number of Operations to Reinitialize a Permutation/1806Minimum Number of Operations to Reinitialize a Permutation.csproj",
       "projectName": "1806Minimum Number of Operations to Reinitialize a Permutation",
-      "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1806Minimum Number of Operations to Reinitialize a Permutation/1806Minimum Number of Operations to Reinitialize a Permutation.csproj",
+      "projectPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1806Minimum Number of Operations to Reinitialize a Permutation/1806Minimum Number of Operations to Reinitialize a Permutation.csproj",
       "packagesPath": "/Users/alexander/.nuget/packages/",
-      "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/1806Minimum Number of Operations to Reinitialize a Permutation/obj/",
+      "outputPath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/1806Minimum Number of Operations to Reinitialize a Permutation/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alexander/.nuget/NuGet/NuGet.Config"

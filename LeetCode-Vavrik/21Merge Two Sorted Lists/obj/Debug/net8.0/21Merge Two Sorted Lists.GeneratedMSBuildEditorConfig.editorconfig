@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _21Merge_Two_Sorted_Lists
-build_property.ProjectDir = /Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/21Merge Two Sorted Lists/
+build_property.ProjectDir = /Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/21Merge Two Sorted Lists/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

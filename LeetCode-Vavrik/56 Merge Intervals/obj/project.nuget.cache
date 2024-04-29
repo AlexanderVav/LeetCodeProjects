@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sq4F4OMr+km0oVue3hoJXW9hN+fxrLo2oKVu+zcMeaCC3Cia4UvmcIFDh7JEK7fMDj5IuKXfNAqDsTaWrhNbcA==",
+  "dgSpecHash": "mHmOdj1I/u0M5M/xhbPRr1qTXpOsEemiwW67n7hUFsgJF9xXQ0NgbtavnMj5SVr6N0IpEa5xDq/88doJqXTaCg==",
   "success": true,
-  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCode-Vavrik/56 Merge Intervals/56 Merge Intervals.csproj",
+  "projectFilePath": "/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/56 Merge Intervals/56 Merge Intervals.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
