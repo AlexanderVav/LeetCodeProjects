@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1806Minimum Number of Operations to Reinitialize a Permutation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4670e2a85cca603d90cb020595933c8c3d52cbde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9762d2c75f19f18cb48dd5ed8ef431713f3aa99b")]
 [assembly: System.Reflection.AssemblyProductAttribute("1806Minimum Number of Operations to Reinitialize a Permutation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1806Minimum Number of Operations to Reinitialize a Permutation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

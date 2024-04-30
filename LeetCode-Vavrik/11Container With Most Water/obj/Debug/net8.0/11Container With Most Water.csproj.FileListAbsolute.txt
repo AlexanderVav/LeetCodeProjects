@@ -1,0 +1,15 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/11Container With Most Water/bin/Debug/net8.0/11Container With Most Water
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/11Container With Most Water/bin/Debug/net8.0/11Container With Most Water.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/11Container With Most Water/bin/Debug/net8.0/11Container With Most Water.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/11Container With Most Water/bin/Debug/net8.0/11Container With Most Water.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/11Container With Most Water/bin/Debug/net8.0/11Container With Most Water.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/11Container With Most Water/obj/Debug/net8.0/11Container With Most Water.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/11Container With Most Water/obj/Debug/net8.0/11Container With Most Water.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/11Container With Most Water/obj/Debug/net8.0/11Container With Most Water.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/11Container With Most Water/obj/Debug/net8.0/11Container With Most Water.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/11Container With Most Water/obj/Debug/net8.0/11Container With Most Water.sourcelink.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/11Container With Most Water/obj/Debug/net8.0/11Container With Most Water.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/11Container With Most Water/obj/Debug/net8.0/refint/11Container With Most Water.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/11Container With Most Water/obj/Debug/net8.0/11Container With Most Water.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/11Container With Most Water/obj/Debug/net8.0/11Container With Most Water.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/11Container With Most Water/obj/Debug/net8.0/ref/11Container With Most Water.dll
