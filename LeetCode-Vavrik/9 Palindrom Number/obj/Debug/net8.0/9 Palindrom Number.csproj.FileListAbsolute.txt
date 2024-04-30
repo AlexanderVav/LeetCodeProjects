@@ -1,0 +1,15 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/9 Palindrom Number/bin/Debug/net8.0/9 Palindrom Number
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/9 Palindrom Number/bin/Debug/net8.0/9 Palindrom Number.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/9 Palindrom Number/bin/Debug/net8.0/9 Palindrom Number.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/9 Palindrom Number/bin/Debug/net8.0/9 Palindrom Number.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/9 Palindrom Number/bin/Debug/net8.0/9 Palindrom Number.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/9 Palindrom Number/obj/Debug/net8.0/9 Palindrom Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/9 Palindrom Number/obj/Debug/net8.0/9 Palindrom Number.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/9 Palindrom Number/obj/Debug/net8.0/9 Palindrom Number.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/9 Palindrom Number/obj/Debug/net8.0/9 Palindrom Number.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/9 Palindrom Number/obj/Debug/net8.0/9 Palindrom Number.sourcelink.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/9 Palindrom Number/obj/Debug/net8.0/9 Palindrom Number.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/9 Palindrom Number/obj/Debug/net8.0/refint/9 Palindrom Number.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/9 Palindrom Number/obj/Debug/net8.0/9 Palindrom Number.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/9 Palindrom Number/obj/Debug/net8.0/9 Palindrom Number.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/9 Palindrom Number/obj/Debug/net8.0/ref/9 Palindrom Number.dll

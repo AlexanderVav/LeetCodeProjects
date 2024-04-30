@@ -1,0 +1,15 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/26 Remove Duplicates from Sorted Array/bin/Debug/net8.0/26 Remove Duplicates from Sorted Array
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/26 Remove Duplicates from Sorted Array/bin/Debug/net8.0/26 Remove Duplicates from Sorted Array.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/26 Remove Duplicates from Sorted Array/bin/Debug/net8.0/26 Remove Duplicates from Sorted Array.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/26 Remove Duplicates from Sorted Array/bin/Debug/net8.0/26 Remove Duplicates from Sorted Array.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/26 Remove Duplicates from Sorted Array/bin/Debug/net8.0/26 Remove Duplicates from Sorted Array.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/26 Remove Duplicates from Sorted Array/obj/Debug/net8.0/26 Remove Duplicates from Sorted Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/26 Remove Duplicates from Sorted Array/obj/Debug/net8.0/26 Remove Duplicates from Sorted Array.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/26 Remove Duplicates from Sorted Array/obj/Debug/net8.0/26 Remove Duplicates from Sorted Array.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/26 Remove Duplicates from Sorted Array/obj/Debug/net8.0/26 Remove Duplicates from Sorted Array.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/26 Remove Duplicates from Sorted Array/obj/Debug/net8.0/26 Remove Duplicates from Sorted Array.sourcelink.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/26 Remove Duplicates from Sorted Array/obj/Debug/net8.0/26 Remove Duplicates from Sorted Array.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/26 Remove Duplicates from Sorted Array/obj/Debug/net8.0/refint/26 Remove Duplicates from Sorted Array.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/26 Remove Duplicates from Sorted Array/obj/Debug/net8.0/26 Remove Duplicates from Sorted Array.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/26 Remove Duplicates from Sorted Array/obj/Debug/net8.0/26 Remove Duplicates from Sorted Array.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/26 Remove Duplicates from Sorted Array/obj/Debug/net8.0/ref/26 Remove Duplicates from Sorted Array.dll

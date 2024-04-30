@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("92Reverse Linked List II")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7d1cdf3e0ce1508386d03b8dad077351020696c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4670e2a85cca603d90cb020595933c8c3d52cbde")]
 [assembly: System.Reflection.AssemblyProductAttribute("92Reverse Linked List II")]
 [assembly: System.Reflection.AssemblyTitleAttribute("92Reverse Linked List II")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

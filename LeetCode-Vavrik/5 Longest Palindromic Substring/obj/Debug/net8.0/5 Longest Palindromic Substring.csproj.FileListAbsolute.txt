@@ -1,0 +1,15 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/5 Longest Palindromic Substring/bin/Debug/net8.0/5 Longest Palindromic Substring
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/5 Longest Palindromic Substring/bin/Debug/net8.0/5 Longest Palindromic Substring.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/5 Longest Palindromic Substring/bin/Debug/net8.0/5 Longest Palindromic Substring.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/5 Longest Palindromic Substring/bin/Debug/net8.0/5 Longest Palindromic Substring.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/5 Longest Palindromic Substring/bin/Debug/net8.0/5 Longest Palindromic Substring.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/5 Longest Palindromic Substring/obj/Debug/net8.0/5 Longest Palindromic Substring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/5 Longest Palindromic Substring/obj/Debug/net8.0/5 Longest Palindromic Substring.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/5 Longest Palindromic Substring/obj/Debug/net8.0/5 Longest Palindromic Substring.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/5 Longest Palindromic Substring/obj/Debug/net8.0/5 Longest Palindromic Substring.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/5 Longest Palindromic Substring/obj/Debug/net8.0/5 Longest Palindromic Substring.sourcelink.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/5 Longest Palindromic Substring/obj/Debug/net8.0/5 Longest Palindromic Substring.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/5 Longest Palindromic Substring/obj/Debug/net8.0/refint/5 Longest Palindromic Substring.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/5 Longest Palindromic Substring/obj/Debug/net8.0/5 Longest Palindromic Substring.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/5 Longest Palindromic Substring/obj/Debug/net8.0/5 Longest Palindromic Substring.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/5 Longest Palindromic Substring/obj/Debug/net8.0/ref/5 Longest Palindromic Substring.dll
