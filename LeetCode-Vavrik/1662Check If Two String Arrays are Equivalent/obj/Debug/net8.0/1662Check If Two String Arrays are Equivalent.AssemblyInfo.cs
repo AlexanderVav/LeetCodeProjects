@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1662Check If Two String Arrays are Equivalent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9762d2c75f19f18cb48dd5ed8ef431713f3aa99b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60a11f9714aa1bd07bf1982a31f2d303a1239635")]
 [assembly: System.Reflection.AssemblyProductAttribute("1662Check If Two String Arrays are Equivalent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1662Check If Two String Arrays are Equivalent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

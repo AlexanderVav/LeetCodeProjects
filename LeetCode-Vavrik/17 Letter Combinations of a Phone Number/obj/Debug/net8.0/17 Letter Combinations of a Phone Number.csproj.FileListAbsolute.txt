@@ -1,0 +1,15 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/17 Letter Combinations of a Phone Number/bin/Debug/net8.0/17 Letter Combinations of a Phone Number
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/17 Letter Combinations of a Phone Number/bin/Debug/net8.0/17 Letter Combinations of a Phone Number.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/17 Letter Combinations of a Phone Number/bin/Debug/net8.0/17 Letter Combinations of a Phone Number.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/17 Letter Combinations of a Phone Number/bin/Debug/net8.0/17 Letter Combinations of a Phone Number.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/17 Letter Combinations of a Phone Number/bin/Debug/net8.0/17 Letter Combinations of a Phone Number.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/17 Letter Combinations of a Phone Number/obj/Debug/net8.0/17 Letter Combinations of a Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/17 Letter Combinations of a Phone Number/obj/Debug/net8.0/17 Letter Combinations of a Phone Number.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/17 Letter Combinations of a Phone Number/obj/Debug/net8.0/17 Letter Combinations of a Phone Number.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/17 Letter Combinations of a Phone Number/obj/Debug/net8.0/17 Letter Combinations of a Phone Number.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/17 Letter Combinations of a Phone Number/obj/Debug/net8.0/17 Letter Combinations of a Phone Number.sourcelink.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/17 Letter Combinations of a Phone Number/obj/Debug/net8.0/17 Letter Combinations of a Phone Number.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/17 Letter Combinations of a Phone Number/obj/Debug/net8.0/refint/17 Letter Combinations of a Phone Number.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/17 Letter Combinations of a Phone Number/obj/Debug/net8.0/17 Letter Combinations of a Phone Number.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/17 Letter Combinations of a Phone Number/obj/Debug/net8.0/17 Letter Combinations of a Phone Number.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/17 Letter Combinations of a Phone Number/obj/Debug/net8.0/ref/17 Letter Combinations of a Phone Number.dll
