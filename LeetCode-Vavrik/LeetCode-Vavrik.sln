@@ -48,6 +48,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11Container With Most Water
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 Letter Combinations of a Phone Number", "17 Letter Combinations of a Phone Number\17 Letter Combinations of a Phone Number.csproj", "{4D34A0D0-8B48-4F7E-B2DE-7541462E5F72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24 Swap Nodes in Pairs", "24 Swap Nodes in Pairs\24 Swap Nodes in Pairs.csproj", "{B82C7933-06FA-429D-888D-4EC3C9C9C074}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,5 +152,9 @@ Global
 		{4D34A0D0-8B48-4F7E-B2DE-7541462E5F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D34A0D0-8B48-4F7E-B2DE-7541462E5F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D34A0D0-8B48-4F7E-B2DE-7541462E5F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82C7933-06FA-429D-888D-4EC3C9C9C074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82C7933-06FA-429D-888D-4EC3C9C9C074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82C7933-06FA-429D-888D-4EC3C9C9C074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82C7933-06FA-429D-888D-4EC3C9C9C074}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

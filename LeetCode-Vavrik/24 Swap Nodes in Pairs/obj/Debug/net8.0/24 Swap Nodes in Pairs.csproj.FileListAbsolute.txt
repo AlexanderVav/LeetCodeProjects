@@ -1,0 +1,15 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/24 Swap Nodes in Pairs/bin/Debug/net8.0/24 Swap Nodes in Pairs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/24 Swap Nodes in Pairs/bin/Debug/net8.0/24 Swap Nodes in Pairs.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/24 Swap Nodes in Pairs/bin/Debug/net8.0/24 Swap Nodes in Pairs.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/24 Swap Nodes in Pairs/bin/Debug/net8.0/24 Swap Nodes in Pairs.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/24 Swap Nodes in Pairs/bin/Debug/net8.0/24 Swap Nodes in Pairs.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/24 Swap Nodes in Pairs/obj/Debug/net8.0/24 Swap Nodes in Pairs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/24 Swap Nodes in Pairs/obj/Debug/net8.0/24 Swap Nodes in Pairs.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/24 Swap Nodes in Pairs/obj/Debug/net8.0/24 Swap Nodes in Pairs.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/24 Swap Nodes in Pairs/obj/Debug/net8.0/24 Swap Nodes in Pairs.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/24 Swap Nodes in Pairs/obj/Debug/net8.0/24 Swap Nodes in Pairs.sourcelink.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/24 Swap Nodes in Pairs/obj/Debug/net8.0/24 Swap Nodes in Pairs.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/24 Swap Nodes in Pairs/obj/Debug/net8.0/refint/24 Swap Nodes in Pairs.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/24 Swap Nodes in Pairs/obj/Debug/net8.0/24 Swap Nodes in Pairs.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/24 Swap Nodes in Pairs/obj/Debug/net8.0/24 Swap Nodes in Pairs.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/24 Swap Nodes in Pairs/obj/Debug/net8.0/ref/24 Swap Nodes in Pairs.dll
