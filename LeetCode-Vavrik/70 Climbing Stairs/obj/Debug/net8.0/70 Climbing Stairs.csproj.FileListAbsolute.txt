@@ -1,0 +1,15 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/70 Climbing Stairs/bin/Debug/net8.0/70 Climbing Stairs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/70 Climbing Stairs/bin/Debug/net8.0/70 Climbing Stairs.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/70 Climbing Stairs/bin/Debug/net8.0/70 Climbing Stairs.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/70 Climbing Stairs/bin/Debug/net8.0/70 Climbing Stairs.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/70 Climbing Stairs/bin/Debug/net8.0/70 Climbing Stairs.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/70 Climbing Stairs/obj/Debug/net8.0/70 Climbing Stairs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/70 Climbing Stairs/obj/Debug/net8.0/70 Climbing Stairs.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/70 Climbing Stairs/obj/Debug/net8.0/70 Climbing Stairs.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/70 Climbing Stairs/obj/Debug/net8.0/70 Climbing Stairs.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/70 Climbing Stairs/obj/Debug/net8.0/70 Climbing Stairs.sourcelink.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/70 Climbing Stairs/obj/Debug/net8.0/70 Climbing Stairs.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/70 Climbing Stairs/obj/Debug/net8.0/refint/70 Climbing Stairs.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/70 Climbing Stairs/obj/Debug/net8.0/70 Climbing Stairs.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/70 Climbing Stairs/obj/Debug/net8.0/70 Climbing Stairs.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/70 Climbing Stairs/obj/Debug/net8.0/ref/70 Climbing Stairs.dll

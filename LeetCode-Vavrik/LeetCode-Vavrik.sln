@@ -54,6 +54,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28 Find the Index of the Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66 Plus One", "66 Plus One\66 Plus One.csproj", "{F4B5ABC7-0474-4440-96EA-6B8405A57004}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70 Climbing Stairs", "70 Climbing Stairs\70 Climbing Stairs.csproj", "{A9B6FA49-B5DF-43E3-81F4-691E8FEFDC8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -168,5 +170,9 @@ Global
 		{F4B5ABC7-0474-4440-96EA-6B8405A57004}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4B5ABC7-0474-4440-96EA-6B8405A57004}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4B5ABC7-0474-4440-96EA-6B8405A57004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B6FA49-B5DF-43E3-81F4-691E8FEFDC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B6FA49-B5DF-43E3-81F4-691E8FEFDC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B6FA49-B5DF-43E3-81F4-691E8FEFDC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B6FA49-B5DF-43E3-81F4-691E8FEFDC8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
