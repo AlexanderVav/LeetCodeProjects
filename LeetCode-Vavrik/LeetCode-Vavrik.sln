@@ -50,6 +50,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 Letter Combinations of a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24 Swap Nodes in Pairs", "24 Swap Nodes in Pairs\24 Swap Nodes in Pairs.csproj", "{B82C7933-06FA-429D-888D-4EC3C9C9C074}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28 Find the Index of the First Occurrence in a String", "28 Find the Index of the First Occurrence in a String\28 Find the Index of the First Occurrence in a String.csproj", "{63BE5BC9-DC53-4587-80CF-5CB7DD1574EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -156,5 +158,9 @@ Global
 		{B82C7933-06FA-429D-888D-4EC3C9C9C074}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B82C7933-06FA-429D-888D-4EC3C9C9C074}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B82C7933-06FA-429D-888D-4EC3C9C9C074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BE5BC9-DC53-4587-80CF-5CB7DD1574EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BE5BC9-DC53-4587-80CF-5CB7DD1574EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BE5BC9-DC53-4587-80CF-5CB7DD1574EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BE5BC9-DC53-4587-80CF-5CB7DD1574EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
