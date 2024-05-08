@@ -1,0 +1,15 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/19 Remove Nth Node From End of List/bin/Debug/net8.0/19 Remove Nth Node From End of List
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/19 Remove Nth Node From End of List/bin/Debug/net8.0/19 Remove Nth Node From End of List.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/19 Remove Nth Node From End of List/bin/Debug/net8.0/19 Remove Nth Node From End of List.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/19 Remove Nth Node From End of List/bin/Debug/net8.0/19 Remove Nth Node From End of List.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/19 Remove Nth Node From End of List/bin/Debug/net8.0/19 Remove Nth Node From End of List.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/19 Remove Nth Node From End of List/obj/Debug/net8.0/19 Remove Nth Node From End of List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/19 Remove Nth Node From End of List/obj/Debug/net8.0/19 Remove Nth Node From End of List.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/19 Remove Nth Node From End of List/obj/Debug/net8.0/19 Remove Nth Node From End of List.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/19 Remove Nth Node From End of List/obj/Debug/net8.0/19 Remove Nth Node From End of List.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/19 Remove Nth Node From End of List/obj/Debug/net8.0/19 Remove Nth Node From End of List.sourcelink.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/19 Remove Nth Node From End of List/obj/Debug/net8.0/19 Remove Nth Node From End of List.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/19 Remove Nth Node From End of List/obj/Debug/net8.0/refint/19 Remove Nth Node From End of List.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/19 Remove Nth Node From End of List/obj/Debug/net8.0/19 Remove Nth Node From End of List.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/19 Remove Nth Node From End of List/obj/Debug/net8.0/19 Remove Nth Node From End of List.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/19 Remove Nth Node From End of List/obj/Debug/net8.0/ref/19 Remove Nth Node From End of List.dll

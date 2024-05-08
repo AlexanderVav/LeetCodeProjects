@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("35 Search Insert Position")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("19 Remove Nth Node From End of List")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a589b5e5b37f6b63ee8d297794d31927947d1417")]
-[assembly: System.Reflection.AssemblyProductAttribute("35 Search Insert Position")]
-[assembly: System.Reflection.AssemblyTitleAttribute("35 Search Insert Position")]
+[assembly: System.Reflection.AssemblyProductAttribute("19 Remove Nth Node From End of List")]
+[assembly: System.Reflection.AssemblyTitleAttribute("19 Remove Nth Node From End of List")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.

@@ -58,6 +58,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70 Climbing Stairs", "70 Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35 Search Insert Position", "35 Search Insert Position\35 Search Insert Position.csproj", "{0940CAAE-DE37-4F58-A874-71B0B69CF50C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19 Remove Nth Node From End of List", "19 Remove Nth Node From End of List\19 Remove Nth Node From End of List.csproj", "{11FA5977-4186-4725-A4AC-974B35E142C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -180,5 +182,9 @@ Global
 		{0940CAAE-DE37-4F58-A874-71B0B69CF50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0940CAAE-DE37-4F58-A874-71B0B69CF50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0940CAAE-DE37-4F58-A874-71B0B69CF50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FA5977-4186-4725-A4AC-974B35E142C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FA5977-4186-4725-A4AC-974B35E142C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FA5977-4186-4725-A4AC-974B35E142C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FA5977-4186-4725-A4AC-974B35E142C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
