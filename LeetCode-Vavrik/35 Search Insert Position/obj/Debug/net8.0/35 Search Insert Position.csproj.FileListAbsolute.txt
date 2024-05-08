@@ -1,0 +1,15 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/35 Search Insert Position/bin/Debug/net8.0/35 Search Insert Position
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/35 Search Insert Position/bin/Debug/net8.0/35 Search Insert Position.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/35 Search Insert Position/bin/Debug/net8.0/35 Search Insert Position.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/35 Search Insert Position/bin/Debug/net8.0/35 Search Insert Position.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/35 Search Insert Position/bin/Debug/net8.0/35 Search Insert Position.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/35 Search Insert Position/obj/Debug/net8.0/35 Search Insert Position.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/35 Search Insert Position/obj/Debug/net8.0/35 Search Insert Position.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/35 Search Insert Position/obj/Debug/net8.0/35 Search Insert Position.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/35 Search Insert Position/obj/Debug/net8.0/35 Search Insert Position.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/35 Search Insert Position/obj/Debug/net8.0/35 Search Insert Position.sourcelink.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/35 Search Insert Position/obj/Debug/net8.0/35 Search Insert Position.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/35 Search Insert Position/obj/Debug/net8.0/refint/35 Search Insert Position.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/35 Search Insert Position/obj/Debug/net8.0/35 Search Insert Position.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/35 Search Insert Position/obj/Debug/net8.0/35 Search Insert Position.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/35 Search Insert Position/obj/Debug/net8.0/ref/35 Search Insert Position.dll

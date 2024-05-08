@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("40Combination Sum II")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6044364c86e43dacb315870b5d4b5551e671d036")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ff79b998eb98d529d736cec71fbb14e5f06d777")]
 [assembly: System.Reflection.AssemblyProductAttribute("40Combination Sum II")]
 [assembly: System.Reflection.AssemblyTitleAttribute("40Combination Sum II")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
