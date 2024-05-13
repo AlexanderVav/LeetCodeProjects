@@ -1,0 +1,15 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/15 3Sum/bin/Debug/net8.0/15 3Sum
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/15 3Sum/bin/Debug/net8.0/15 3Sum.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/15 3Sum/bin/Debug/net8.0/15 3Sum.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/15 3Sum/bin/Debug/net8.0/15 3Sum.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/15 3Sum/bin/Debug/net8.0/15 3Sum.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/15 3Sum/obj/Debug/net8.0/15 3Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/15 3Sum/obj/Debug/net8.0/15 3Sum.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/15 3Sum/obj/Debug/net8.0/15 3Sum.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/15 3Sum/obj/Debug/net8.0/15 3Sum.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/15 3Sum/obj/Debug/net8.0/15 3Sum.sourcelink.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/15 3Sum/obj/Debug/net8.0/15 3Sum.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/15 3Sum/obj/Debug/net8.0/refint/15 3Sum.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/15 3Sum/obj/Debug/net8.0/15 3Sum.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/15 3Sum/obj/Debug/net8.0/15 3Sum.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/15 3Sum/obj/Debug/net8.0/ref/15 3Sum.dll
