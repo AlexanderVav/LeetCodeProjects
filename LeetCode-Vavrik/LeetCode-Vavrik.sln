@@ -62,6 +62,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19 Remove Nth Node From End
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 3Sum", "15 3Sum\15 3Sum.csproj", "{5E3F5719-8B3D-417B-8C6F-48CC1C3AD731}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43 Multiply Strings", "43 Multiply Strings\43 Multiply Strings.csproj", "{BDECE684-C52F-44A2-8F6C-572D839C4866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45 Jump Game II", "45 Jump Game II\45 Jump Game II.csproj", "{9EBFD932-32DE-4AFD-A54B-5E55583E6E58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -192,5 +196,13 @@ Global
 		{5E3F5719-8B3D-417B-8C6F-48CC1C3AD731}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E3F5719-8B3D-417B-8C6F-48CC1C3AD731}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E3F5719-8B3D-417B-8C6F-48CC1C3AD731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDECE684-C52F-44A2-8F6C-572D839C4866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDECE684-C52F-44A2-8F6C-572D839C4866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDECE684-C52F-44A2-8F6C-572D839C4866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDECE684-C52F-44A2-8F6C-572D839C4866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EBFD932-32DE-4AFD-A54B-5E55583E6E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EBFD932-32DE-4AFD-A54B-5E55583E6E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EBFD932-32DE-4AFD-A54B-5E55583E6E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EBFD932-32DE-4AFD-A54B-5E55583E6E58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

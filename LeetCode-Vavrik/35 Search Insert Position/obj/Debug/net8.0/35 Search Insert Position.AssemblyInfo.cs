@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("35 Search Insert Position")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+460119e048077dd596ad56214fa23acbd8fd9209")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d7b05970c63256e0a65ad05bbd2ec1d7f23a5dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("35 Search Insert Position")]
 [assembly: System.Reflection.AssemblyTitleAttribute("35 Search Insert Position")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

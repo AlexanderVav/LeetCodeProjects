@@ -1,0 +1,15 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/45 Jump Game II/bin/Debug/net8.0/45 Jump Game II
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/45 Jump Game II/bin/Debug/net8.0/45 Jump Game II.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/45 Jump Game II/bin/Debug/net8.0/45 Jump Game II.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/45 Jump Game II/bin/Debug/net8.0/45 Jump Game II.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/45 Jump Game II/bin/Debug/net8.0/45 Jump Game II.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/45 Jump Game II/obj/Debug/net8.0/45 Jump Game II.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/45 Jump Game II/obj/Debug/net8.0/45 Jump Game II.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/45 Jump Game II/obj/Debug/net8.0/45 Jump Game II.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/45 Jump Game II/obj/Debug/net8.0/45 Jump Game II.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/45 Jump Game II/obj/Debug/net8.0/45 Jump Game II.sourcelink.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/45 Jump Game II/obj/Debug/net8.0/45 Jump Game II.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/45 Jump Game II/obj/Debug/net8.0/refint/45 Jump Game II.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/45 Jump Game II/obj/Debug/net8.0/45 Jump Game II.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/45 Jump Game II/obj/Debug/net8.0/45 Jump Game II.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/45 Jump Game II/obj/Debug/net8.0/ref/45 Jump Game II.dll
