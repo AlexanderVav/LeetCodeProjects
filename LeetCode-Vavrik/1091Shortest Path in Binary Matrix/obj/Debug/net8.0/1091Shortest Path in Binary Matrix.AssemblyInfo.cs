@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1091Shortest Path in Binary Matrix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ea5d4a3fbc39296fac2a90c6c79b5a1e9f828e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d421e50d7f5a821b5ee4a258aa3e46d3ab3c9efb")]
 [assembly: System.Reflection.AssemblyProductAttribute("1091Shortest Path in Binary Matrix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1091Shortest Path in Binary Matrix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
