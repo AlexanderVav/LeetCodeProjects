@@ -1,0 +1,15 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/38 Count and Say/bin/Debug/net8.0/38 Count and Say
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/38 Count and Say/bin/Debug/net8.0/38 Count and Say.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/38 Count and Say/bin/Debug/net8.0/38 Count and Say.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/38 Count and Say/bin/Debug/net8.0/38 Count and Say.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/38 Count and Say/bin/Debug/net8.0/38 Count and Say.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/38 Count and Say/obj/Debug/net8.0/38 Count and Say.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/38 Count and Say/obj/Debug/net8.0/38 Count and Say.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/38 Count and Say/obj/Debug/net8.0/38 Count and Say.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/38 Count and Say/obj/Debug/net8.0/38 Count and Say.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/38 Count and Say/obj/Debug/net8.0/38 Count and Say.sourcelink.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/38 Count and Say/obj/Debug/net8.0/38 Count and Say.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/38 Count and Say/obj/Debug/net8.0/refint/38 Count and Say.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/38 Count and Say/obj/Debug/net8.0/38 Count and Say.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/38 Count and Say/obj/Debug/net8.0/38 Count and Say.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/38 Count and Say/obj/Debug/net8.0/ref/38 Count and Say.dll

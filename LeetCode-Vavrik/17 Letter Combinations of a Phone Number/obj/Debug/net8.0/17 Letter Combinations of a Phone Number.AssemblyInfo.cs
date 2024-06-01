@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("17 Letter Combinations of a Phone Number")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d421e50d7f5a821b5ee4a258aa3e46d3ab3c9efb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2851a47ed4e6103edbec0253d22dd111029be616")]
 [assembly: System.Reflection.AssemblyProductAttribute("17 Letter Combinations of a Phone Number")]
 [assembly: System.Reflection.AssemblyTitleAttribute("17 Letter Combinations of a Phone Number")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

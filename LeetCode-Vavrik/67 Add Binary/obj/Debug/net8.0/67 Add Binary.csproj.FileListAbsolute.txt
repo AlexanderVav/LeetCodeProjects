@@ -1,0 +1,15 @@
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/67 Add Binary/bin/Debug/net8.0/67 Add Binary
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/67 Add Binary/bin/Debug/net8.0/67 Add Binary.deps.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/67 Add Binary/bin/Debug/net8.0/67 Add Binary.runtimeconfig.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/67 Add Binary/bin/Debug/net8.0/67 Add Binary.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/67 Add Binary/bin/Debug/net8.0/67 Add Binary.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/67 Add Binary/obj/Debug/net8.0/67 Add Binary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/67 Add Binary/obj/Debug/net8.0/67 Add Binary.AssemblyInfoInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/67 Add Binary/obj/Debug/net8.0/67 Add Binary.AssemblyInfo.cs
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/67 Add Binary/obj/Debug/net8.0/67 Add Binary.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/67 Add Binary/obj/Debug/net8.0/67 Add Binary.sourcelink.json
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/67 Add Binary/obj/Debug/net8.0/67 Add Binary.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/67 Add Binary/obj/Debug/net8.0/refint/67 Add Binary.dll
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/67 Add Binary/obj/Debug/net8.0/67 Add Binary.pdb
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/67 Add Binary/obj/Debug/net8.0/67 Add Binary.genruntimeconfig.cache
+/Users/alexander/Documents/PRIVAT/LeetCode/LeetCodeProjects/LeetCode-Vavrik/67 Add Binary/obj/Debug/net8.0/ref/67 Add Binary.dll

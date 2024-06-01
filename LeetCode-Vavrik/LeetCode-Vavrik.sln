@@ -66,6 +66,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43 Multiply Strings", "43 M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45 Jump Game II", "45 Jump Game II\45 Jump Game II.csproj", "{9EBFD932-32DE-4AFD-A54B-5E55583E6E58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38 Count and Say", "38 Count and Say\38 Count and Say.csproj", "{3A7AE86A-4957-4A74-B4A7-E44DE89FA0EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67 Add Binary", "67 Add Binary\67 Add Binary.csproj", "{5EEBCF8A-09CC-48C8-A50B-98A45C982557}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -204,5 +208,13 @@ Global
 		{9EBFD932-32DE-4AFD-A54B-5E55583E6E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EBFD932-32DE-4AFD-A54B-5E55583E6E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EBFD932-32DE-4AFD-A54B-5E55583E6E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A7AE86A-4957-4A74-B4A7-E44DE89FA0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7AE86A-4957-4A74-B4A7-E44DE89FA0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7AE86A-4957-4A74-B4A7-E44DE89FA0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7AE86A-4957-4A74-B4A7-E44DE89FA0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEBCF8A-09CC-48C8-A50B-98A45C982557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEBCF8A-09CC-48C8-A50B-98A45C982557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEBCF8A-09CC-48C8-A50B-98A45C982557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEBCF8A-09CC-48C8-A50B-98A45C982557}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
